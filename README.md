@@ -36,5 +36,5 @@ Users should be able to:
 ## Author
 
 - Website - [Guney Unay](https://www.guneyunay.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/unaygney)
+- Frontend Mentor - [@unaygney](https://www.frontendmentor.io/profile/unaygney)
 
